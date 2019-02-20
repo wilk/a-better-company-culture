@@ -1,5 +1,5 @@
-# A Better Company Culture Manifesto
-A Better Company Culture Manifesto
+# A Better Company Culture
+Manifesto
 
 ## Draft Notes
 
