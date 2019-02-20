@@ -1,6 +1,11 @@
 # A Better Company Culture
 Manifesto
 
+## Summary
+
+* [Quotes](QUOTES.md)
+* [Sources](SOURCES.md)
+
 ## Draft Notes
 
 1. We are a company of owners. Owners take results personally.
@@ -14,8 +19,3 @@ However, for employees to grasp the culture, they'll first need to develop an ow
 Nothing will undermine a culture faster than those who don't practice what they preach -- especially at the leadership level. 
 
 A list of core principles will only be worth the paper that they're printed on unless leaders take it upon themselves to be an example for others.
-
-## Summary
-
-* [Quotes](QUOTES.md)
-* [Sources](SOURCES.md)
