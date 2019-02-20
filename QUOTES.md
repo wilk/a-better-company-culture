@@ -1,6 +1,6 @@
-#Quotes
+# Quotes
 
-##From [Why you should be optimizing](https://99u.adobe.com/articles/6990/why-you-should-be-optimizing)
+## From [Why you should be optimizing](https://99u.adobe.com/articles/6990/why-you-should-be-optimizing)
 
 > Despite research that encourages us to build on our strengths, we spend more time fixing what's broken than optimizing what works. Why? Because any measure of success impairs our ability to imagine something better. I call this the “horizon of success” effect, because it's hard to see the potential that lies beyond something that works.
 
